@@ -1,29 +1,42 @@
-# ART-UNITY
+# 🎮 ART-UNITY
 
-Proyecto de arte en Unity.
+Proyecto de arte en Unity desarrollado por **Isaac Esteban Haro Torres**.
 
-## Descripción
+---
+
+## 📝 Descripción
 
 Proyecto Unity para crear y gestionar contenido artístico en videojuegos.
 
-## Características
+---
+
+## ✨ Características
 
 - Modelado 3D
 - Animaciones
 - Efectos visuales
 
-## Stack Tecnológico
+---
+
+## 🛠️ Stack Tecnológico
 
 - Unity
 - C#
 - Assets 3D
 
-## Autor
+---
 
-🧑‍💻 **Isaac Haro**
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
-Ingeniero en Sistemas · Full Stack · Automatización · Data
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
 
-## Licencia
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
 
-MIT — contribuciones bienvenidas 🚀
+---
+
+## 📄 Licencia
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
